@@ -1,27 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,24&height=200&section=header&text=MY%20TECH%20UNIVERSE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality&descAlignY=58&descSize=17&animation=fadeIn" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=2800&pause=1000&color=8B7CF6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+%7C+Next.js;Creative+UI+%7C+GSAP+Animations;Backend+Systems+%7C+Docker+%7C+Redis;Always+Learning+%7C+Always+Building" alt="Animated introduction" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Frontend-EEE8FF?style=for-the-badge&logo=react&logoColor=149ECA" />
-<img src="https://img.shields.io/badge/Backend-E0F2FE?style=for-the-badge&logo=nodedotjs&logoColor=43853D" />
-<img src="https://img.shields.io/badge/Database-DCFCE7?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/DevOps-FCE7F3?style=for-the-badge&logo=docker&logoColor=2496ED" />
-
-</div>
-
----
-
-<div align="center">
-
-## ✨ Technologies I Work With
-
-*My toolkit for building modern, interactive and scalable applications.*
+# Hi, I'm Vishwa Chakrani
+### Software Engineer
 
 </div>
 
@@ -144,16 +124,3 @@
 </p>
 
 > Strengthening programming fundamentals, problem-solving, algorithms, and software engineering skills.
-
----
-
-<div align="center">
-
-## 🌸 Learn. Create. Innovate.
-
-*Every line of code is a step forward.*
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,24&height=110&section=footer" />
-
-</div>
