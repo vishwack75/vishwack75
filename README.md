@@ -37,27 +37,6 @@
 
 <br/>
 
-##  Animation & Motion Design
-
-<p>
-  <a href="https://greensock.com/gsap/">
-    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  </a>
-  <a href="https://greensock.com/scrolltrigger/">
-    <img src="https://img.shields.io/badge/ScrollTrigger-00C853?style=for-the-badge&logo=greensock&logoColor=white" />
-  </a>
-  <a href="https://framer.com/motion">
-    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations">
-    <img src="https://img.shields.io/badge/CSS_Animations-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-</p>
-
-> Creating smooth transitions, scroll-based animations, interactive effects, micro-interactions, and immersive web experiences.
-
-<br/>
-
 ## DevOps Tools
 
 <p>
