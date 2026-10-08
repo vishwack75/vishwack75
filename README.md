@@ -47,7 +47,7 @@
 
 <br/>
 
-## 💻 06 - Programming Languages
+## Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=light" />
