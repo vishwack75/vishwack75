@@ -28,7 +28,7 @@
 
 <br/>
 
-## 🎨 01 — Frontend Development
+## 🎨 01 - Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&theme=light" />
@@ -49,7 +49,7 @@ Building responsive interfaces, reusable components, and polished user experienc
 
 <br/>
 
-## ⚙️ 02 — Backend Development
+## ⚙️ 02 - Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,python&theme=light" />
@@ -67,7 +67,7 @@ Developing APIs, server-side logic, application services, and backend integratio
 
 <br/>
 
-## 🗄️ 03 — Databases & Caching
+## 🗄️ 03 - Databases & Caching
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=light" />
@@ -84,7 +84,7 @@ Working with data storage, querying, database design, and caching technologies.
 
 <br/>
 
-## 🎬 04 — Animation & Motion Design
+## 🎬 04 - Animation & Motion Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=gsap&theme=light" />
@@ -100,7 +100,7 @@ Creating smooth transitions, scroll-based animations, and interactive web experi
 
 <br/>
 
-## 🐳 05 — DevOps & Developer Tools
+## 🐳 05 - DevOps & Developer Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&theme=light" />
@@ -118,7 +118,7 @@ Exploring containerization, version control, API testing, and development workfl
 
 <br/>
 
-## 💻 06 — Programming Languages
+## 💻 06 - Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=light" />
