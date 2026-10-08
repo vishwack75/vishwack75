@@ -7,63 +7,37 @@
 
 <br/>
 
-## 🎨 01 - Frontend Development
+##  Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&theme=light" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-FFF0E8?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-EAF3FF?style=flat-square&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-FFF9DB?style=flat-square&logo=javascript&logoColor=B79500" />
-  <img src="https://img.shields.io/badge/TypeScript-EAF2FF?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/React-E8FAFF?style=flat-square&logo=react&logoColor=149ECA" />
-  <img src="https://img.shields.io/badge/Next.js-F3F4F6?style=flat-square&logo=nextdotjs&logoColor=333333" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-DEF7F7?style=flat-square&logo=tailwindcss&logoColor=0891B2" />
-  <img src="https://img.shields.io/badge/Redux-F0E8FF?style=flat-square&logo=redux&logoColor=764ABC" />
 </p>
 
 > Building responsive interfaces, reusable components, modern layouts, and polished user experiences.
 
 <br/>
 
-## ⚙️ 02 - Backend Development
+##  Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,python&theme=light" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-E8F8E8?style=flat-square&logo=nodedotjs&logoColor=43853D" />
-  <img src="https://img.shields.io/badge/Express.js-F3F4F6?style=flat-square&logo=express&logoColor=444444" />
-  <img src="https://img.shields.io/badge/Java-FFF0E6?style=flat-square&logo=openjdk&logoColor=E76F00" />
-  <img src="https://img.shields.io/badge/Python-EAF2FF?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/REST_APIs-EDE9FE?style=flat-square&logo=fastapi&logoColor=6D5BD0" />
 </p>
 
 > Developing REST APIs, server-side logic, authentication, application services, and backend integrations.
 
 <br/>
 
-## 🗄️ 03 - Databases & Caching
+## Databases & Caching
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=light" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-E6F7E9?style=flat-square&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/MySQL-E8F5FF?style=flat-square&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/PostgreSQL-EAF0FF?style=flat-square&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/Redis-FFEAEA?style=flat-square&logo=redis&logoColor=DC382D" />
 </p>
 
 > Working with databases, data modeling, queries, relationships, persistence, and high-performance caching.
 
 <br/>
 
-## 🎬 04 - Animation & Motion Design
+##  Animation & Motion Design
 
 <p>
   <a href="https://greensock.com/gsap/">
@@ -80,28 +54,14 @@
   </a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/GSAP-E8F8E8?style=flat-square&logo=greensock&logoColor=88CE02" />
-  <img src="https://img.shields.io/badge/Scroll_Animations-F3E8FF?style=flat-square&logo=greensock&logoColor=8B7CF6" />
-  <img src="https://img.shields.io/badge/Motion_Design-FFE8F1?style=flat-square&logo=framer&logoColor=E91E63" />
-  <img src="https://img.shields.io/badge/Micro--Interactions-E0F2FE?style=flat-square&logo=cssdesignawards&logoColor=0284C7" />
-</p>
-
 > Creating smooth transitions, scroll-based animations, interactive effects, micro-interactions, and immersive web experiences.
 
 <br/>
 
-## 🐳 05 - DevOps Tools
+## DevOps Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman&theme=light" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-E6F4FF?style=flat-square&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Git-FFF0EA?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-F3F4F6?style=flat-square&logo=github&logoColor=333333" />
-  <img src="https://img.shields.io/badge/Postman-FFF0E8?style=flat-square&logo=postman&logoColor=FF6C37" />
 </p>
 
 > Exploring containerization, version control, API testing, development environments, and deployment workflows.
@@ -112,15 +72,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=light" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/C-EAF2FF?style=flat-square&logo=c&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/C%2B%2B-E9EDFF?style=flat-square&logo=cplusplus&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/Java-FFF0E6?style=flat-square&logo=openjdk&logoColor=E76F00" />
-  <img src="https://img.shields.io/badge/Python-EAF2FF?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/JavaScript-FFF9DB?style=flat-square&logo=javascript&logoColor=B79500" />
-  <img src="https://img.shields.io/badge/TypeScript-EAF2FF?style=flat-square&logo=typescript&logoColor=3178C6" />
 </p>
 
 > Strengthening programming fundamentals, problem-solving, algorithms, and software engineering skills.
