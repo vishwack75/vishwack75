@@ -7,50 +7,15 @@
 
 <br/>
 
-##  Frontend Development
+## About Me
+
+> Software Engineer focused on building Full-Stack web applications and solving real-world problems through clean, scalable, and maintainable code. I enjoy turning ideas into complete products - from intuitive user interfaces and robust backend APIs and developing end to end backend systems to database architecture, integrations, and deployment. I continuously explore modern technologies.
+<br/>
+
+## Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&theme=light" />
 </p>
 
-> Building responsive interfaces, reusable components, modern layouts, and polished user experiences.
-
-<br/>
-
-##  Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python&theme=light" />
-</p>
-
-> Developing REST APIs, server-side logic, authentication, application services, and backend integrations.
-
-<br/>
-
-## Databases & Caching
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=light" />
-</p>
-
-> Working with databases, data modeling, queries, relationships, persistence, and high-performance caching.
-
-<br/>
-
-## DevOps Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman&theme=light" />
-</p>
-
-> Exploring containerization, version control, API testing, development environments, and deployment workflows.
-
-<br/>
-
-## Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=light" />
-</p>
-
-> Strengthening programming fundamentals, problem-solving, algorithms, and software engineering skills.
+> Building production-ready interfaces with responsive layouts, reusable components, modern UI patterns, animations, state management, and seamless user experiences.
