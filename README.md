@@ -121,7 +121,6 @@
   <img src="https://img.shields.io/badge/Docker-E6F4FF?style=flat-square&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Git-FFF0EA?style=flat-square&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-F3F4F6?style=flat-square&logo=github&logoColor=333333" />
-  <img src="https://img.shields.io/badge/VS_Code-E8F4FF?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/Postman-FFF0E8?style=flat-square&logo=postman&logoColor=FF6C37" />
 </p>
 
