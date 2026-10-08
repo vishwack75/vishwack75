@@ -154,15 +154,6 @@
 
 *Every line of code is a step forward.*
 
-<br/>
-
-<img src="https://img.shields.io/badge/MERN-EEF2FF?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Next.js-F8FAFC?style=for-the-badge&logo=nextdotjs&logoColor=000000" />
-<img src="https://img.shields.io/badge/GSAP-F0FDF4?style=for-the-badge&logo=greensock&logoColor=88CE02" />
-<img src="https://img.shields.io/badge/Docker-EFF6FF?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Redis-FFF1F2?style=for-the-badge&logo=redis&logoColor=DC382D" />
-
-<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,24&height=110&section=footer" />
 
