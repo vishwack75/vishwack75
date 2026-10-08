@@ -114,7 +114,7 @@
 ## 🐳 05 - DevOps Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&theme=light" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman&theme=light" />
 </p>
 
 <p>
