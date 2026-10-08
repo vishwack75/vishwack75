@@ -8,10 +8,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Frontend-EEE8FF?style=for-the-badge&labelColor=F7F4FF" />
-<img src="https://img.shields.io/badge/Backend-E0F2FE?style=for-the-badge&labelColor=F0F9FF" />
-<img src="https://img.shields.io/badge/Database-DCFCE7?style=for-the-badge&labelColor=F0FDF4" />
-<img src="https://img.shields.io/badge/DevOps-FCE7F3?style=for-the-badge&labelColor=FDF2F8" />
+<img src="https://img.shields.io/badge/Frontend-EEE8FF?style=for-the-badge&logo=react&logoColor=149ECA" />
+<img src="https://img.shields.io/badge/Backend-E0F2FE?style=for-the-badge&logo=nodedotjs&logoColor=43853D" />
+<img src="https://img.shields.io/badge/Database-DCFCE7?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/DevOps-FCE7F3?style=for-the-badge&logo=docker&logoColor=2496ED" />
 
 </div>
 
@@ -86,9 +86,25 @@
 ## 🎬 04 - Animation & Motion Design
 
 <p>
-  <img src="https://img.shields.io/badge/GSAP-E8F8E8?style=for-the-badge&logo=greensock&logoColor=88CE02" />
-  <img src="https://img.shields.io/badge/Scroll_Animations-F3E8FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Motion_Design-FFE8F1?style=for-the-badge" />
+  <a href="https://greensock.com/gsap/">
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  </a>
+  <a href="https://greensock.com/scrolltrigger/">
+    <img src="https://img.shields.io/badge/ScrollTrigger-00C853?style=for-the-badge&logo=greensock&logoColor=white" />
+  </a>
+  <a href="https://framer.com/motion">
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations">
+    <img src="https://img.shields.io/badge/CSS_Animations-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/GSAP-E8F8E8?style=flat-square&logo=greensock&logoColor=88CE02" />
+  <img src="https://img.shields.io/badge/Scroll_Animations-F3E8FF?style=flat-square&logo=greensock&logoColor=8B7CF6" />
+  <img src="https://img.shields.io/badge/Motion_Design-FFE8F1?style=flat-square&logo=framer&logoColor=E91E63" />
+  <img src="https://img.shields.io/badge/Micro--Interactions-E0F2FE?style=flat-square&logo=cssdesignawards&logoColor=0284C7" />
 </p>
 
 > Creating smooth transitions, scroll-based animations, interactive effects, micro-interactions, and immersive web experiences.
@@ -140,11 +156,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/MERN-EEF2FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Next.js-F8FAFC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GSAP-F0FDF4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Docker-EFF6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Redis-FFF1F2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MERN-EEF2FF?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Next.js-F8FAFC?style=for-the-badge&logo=nextdotjs&logoColor=000000" />
+<img src="https://img.shields.io/badge/GSAP-F0FDF4?style=for-the-badge&logo=greensock&logoColor=88CE02" />
+<img src="https://img.shields.io/badge/Docker-EFF6FF?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Redis-FFF1F2?style=for-the-badge&logo=redis&logoColor=DC382D" />
 
 <br/><br/>
 
